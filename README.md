@@ -1,4 +1,4 @@
-<div align="center">
+&nbsp;<div align="center">
   ![Banner](https://github.com/user-attachments/assets/384eb82f-3e44-4d07-b257-c3e26c299970)
   [![DISCORD](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ASRpReWBME)
 </div>
